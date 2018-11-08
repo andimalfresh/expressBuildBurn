@@ -1,0 +1,8 @@
+[
+  { "snack": "jalapeno chips", "rating": 5 },
+  { "snack": "shitty flax seed bar", "rating": -2 },
+  { "snack": "turkey sticks", "rating": 2 },
+  { "snack": "bananas", "rating": 4.5 },
+  { "snack": "beef sticks", "rating": 5 },
+  { "snack": "bean bars", "rating": 1 }
+]
